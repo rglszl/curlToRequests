@@ -1,0 +1,11 @@
+---
+application:
+  name: "curltorequests"
+  project: "asdfasdf"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-curltorequests"
+  routes:
+  - application_name: "curltorequests"
+    paths:
+    - "/*"
